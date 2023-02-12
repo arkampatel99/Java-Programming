@@ -1,5 +1,5 @@
 
-class Program245
+class 2Addition
 {
     public static void main(String arg[])
     {
