@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Program246
+class 3DynamicAddition
 {
     public static void main(String arg[])
     {
